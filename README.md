@@ -6,4 +6,14 @@ All of the shaders and scripts used in this project are included in the Assets f
 
 ## Screenshots
 
-![front](Screenshots/front.png)
+<p align="center">
+  <strong>Normal View:</strong>
+</p>
+
+![Normal View](Screenshots/normal.png)
+
+<p align="center">
+  <strong>X-Ray View:</strong>
+</p>
+
+![X-Ray](Screenshots/xray.png)
