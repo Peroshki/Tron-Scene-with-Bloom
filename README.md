@@ -1,4 +1,4 @@
-## Tron Scene with Bloom
+# Tron Scene with Bloom
 
 A simple Tron scene created in Unity3D which uses a bloom filter and an X-Ray effect.
 
